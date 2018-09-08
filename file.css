@@ -1,8 +1,23 @@
 .text {
-    position: relative;
-    width: 200px;
+    position: absolute;
+    padding: 500px
+}     
+.text.image {
+    width: 0px;
+}
 }
 h1 {
     position: relative;
 
+}
+.container {
+    position: absolute;
+
+    
+}
+body {
+    background-color: rgb(86, 86, 153)
+}
+.inner {
+    position: relative;
 }
