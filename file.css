@@ -1,28 +1,35 @@
-.text {
-    position: absolute;
-    padding: px
-}     
-.text.image {
-    width: 0px;
-}
-}
 h1 {
+    color: blue;
+    position: absolute;
+    top : 0px;
+
+}
+.text {
     position: relative;
+    border-right: red 5px;
+}     
+text.image/proj.jpg {
+    position: relative;
+    width: 0px
+}
+}
+text.h1 {
+    position: relative;
+    color: aqua
 
 }
 .container { 
     position: relative;
-    size: 50%
+    size: 40%
     padding: red 0px
+    
 
     
 }
 body {
-    background-color: rgb(192, 78, 154);
-    width: 100%;
-    height: 200%;
-    position : relative;
+    background-color: rgb(238, 30, 169);
+    size: 100%;
 }
 .inner {
-    position: relative;
+    position: static;
 }
