@@ -115,6 +115,18 @@ p {
         border-radius: 70px;
         padding: 10px;
     
+    
+}
+body {
+    background-color: rgb(0, 0, 0);
+    size: 100%;
+    padding-top: 10px;
+    text-align: left;
+    transform: translate(-50%.-50%);
+    background: brown;
+    height: 150px;
+    border-radius: 500px;
+    padding: 10px;
 }
 @media screen and (min-width: 480px) and (max-width: 767px) {
     h2 {
@@ -131,6 +143,16 @@ p {
         border-radius: 70px;
         padding: 10px;
 }
+body {
+    background-color: rgb(0, 0, 0);
+    size: 100%;
+    padding-top: 10px;
+    text-align: center;
+    transform: translate(-50%.-50%);
+    background: pink;
+    height: 150px;
+    border-radius: 500px;
+    padding: 10px;
 @media screen and (min-width: 767px) {
     h2 {
         position: absolute;
