@@ -44,7 +44,7 @@ text.h1 {
 
 }
 .container { 
-    position: relative;
+    position: absolute;
     top: 0px
     
 
@@ -97,7 +97,6 @@ p {
 
       
 }
-
 
 @media screen and (min-width: 480px) {
     body {
@@ -170,7 +169,7 @@ body {
 
 }
 @media screen and (min-width: 767px) {
-    h2 {
+    .h2 {
         position: absolute;
         top: 100px;
         left: 40px;
@@ -183,23 +182,6 @@ body {
         height: 180px;
         border-radius: 70px;
         padding: 10px;
-
-}
-@media screen and (min-width: 480px){
-    h2 {
-        position: absolute;
-        top: 41px;
-        left: 29px;
-        font-size: 29px;
-        color: antiquewhite;
-        padding-top: 33px;
-        text-align: center;
-        transform: translate(-50%.-50%);
-        background: rgb(102, 55, 55);
-        height: 164px;
-        border-radius: 32px;
-        padding: 2px;
-        right: 34px;
     }
 }
     
