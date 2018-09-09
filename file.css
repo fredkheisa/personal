@@ -68,11 +68,12 @@ p {
 }
 .important {
     position: absolute;
-    top: 700px;
+    top: 1200px;
     right: 40px;
     font-size: 35px;
-    color: aliceblue;
-    float: right;
+    color: rgb(204, 87, 83);
+
+      
 }
 .picme {
     .important {
