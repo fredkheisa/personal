@@ -1,9 +1,11 @@
 h1 {
     color: rgb(250, 250, 250);
-    position: absolute;
+    position: fixed;
     top : 70px;
     left: 20px;
     font-style: italic ;
+    padding-top: 10px;
+    
 
 }
 h2 {
@@ -35,7 +37,7 @@ text.h1 {
     
 }
 body {
-    background-color: rgb(238, 30, 169);
+    background-color: rgb(0, 0, 0);
     size: 100%;
 }
 .inner {
@@ -56,9 +58,28 @@ p {
 
 }
 .example {
-    position: fixed;
+    position: absolute;
     top: 290px;
     left: 40px;
     font-size: 35px;
     color: aliceblue;
+    background-repeat: repeat;
+    
+}
+.important {
+    position: absolute;
+    top: 700px;
+    right: 40px;
+    font-size: 35px;
+    color: aliceblue;
+    float: right;
+}
+.picme {
+    .important {
+        position: fixed;
+        top: 70px;
+        right: 40px;
+        font-size: 35px;
+        color: aliceblue;
+        float: right;
 }
