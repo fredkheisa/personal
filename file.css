@@ -168,20 +168,5 @@ body {
     }
 
 }
-@media screen and (min-width: 767px) {
-    .h2 {
-        position: absolute;
-        top: 100px;
-        left: 40px;
-        font-size: 50px;
-        color: rgb(174, 198, 219);
-        padding-top: 10px;
-        text-align: center;
-        transform: translate(-50%.-50%);
-        background: rgb(48, 32, 32);
-        height: 180px;
-        border-radius: 70px;
-        padding: 10px;
-    }
 }
     
