@@ -18,4 +18,4 @@ the tools used are makdown and command line
 incase you  have any contributions be sure to let us know @fredkheisa@gmail.om 
 ### License
 *MIT License.See below for more details on licensing *
-Copyright (c) {2018} **{kheisalimited}**
+Copyright (c) 2018 **kheisalimited**
